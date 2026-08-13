@@ -45,6 +45,3 @@ The project demonstrates how SQL can be used to transform raw retail inventory d
 
 Shreyas Samrutwar
 Data Analyst | SQL | Power BI | Python
-│
-└── Dataset/
-    └── README.md
